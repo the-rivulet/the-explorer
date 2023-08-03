@@ -1,0 +1,28 @@
+{
+	"id": "Explorer",
+	"name": "The Explorer",
+	"description": "An athletic little slugcat that can slow down time to deal deadly blows.",
+	"features": {
+		"select_menu_scene": "Slugcat_Explorer",
+		"select_menu_scene_ascended": "Ghost_Explorer",
+
+		"color": "9cf014",
+		"tunnel_speed": 1.8,
+		"walk_speed": 1.3,
+		"climb_speed": 1.8,
+		"throw_skill": 1,
+		"diet": {
+			"corpses": 1.0,
+			"meat": 0.75,
+			"plants": 0.5
+		},
+		"food_min": 5,
+		"food_max": 3,
+
+		"Explorer/bt_damage_multi": 1.5,
+		"Explorer/rush_stun_multi": 6.0,
+		"Explorer/jump_height": 1.1,
+		"Explorer/flip_height": 1.5,
+		"Explorer/flip_boost": 7.7
+	}
+}
