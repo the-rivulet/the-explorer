@@ -17,7 +17,7 @@
 			"plants": 0.5
 		},
 		"food_min": 5,
-		"food_max": 3,
+		"food_max": 8,
 
 		"Explorer/bt_damage_multi": 1.5,
 		"Explorer/rush_stun_multi": 6.0,
