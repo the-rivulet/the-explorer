@@ -1,7 +1,7 @@
 ﻿{
 	"id": "wooga123.firstmod",
 	"name": "The Explorer",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"authors": "wooga123",
 	"description": "An athletic little slugcat that can slow down time to deal deadly blows.",
 	"requirements": [ "slime-cubed.slugbase" ],
