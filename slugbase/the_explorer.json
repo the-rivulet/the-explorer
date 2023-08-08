@@ -20,9 +20,12 @@
 		"food_max": 8,
 
 		"Explorer/bt_damage_multi": 1.5,
-		"Explorer/rush_stun_multi": 6.0,
-		"Explorer/jump_height": 1.1,
+		"Explorer/bt_stun_multi": 7.7,
 		"Explorer/flip_height": 1.5,
-		"Explorer/flip_boost": 7.7
+		"Explorer/flip_boost": 8.0,
+		"Explorer/jump_height": 1.2,
+		"Explorer/max_dashes": 1,
+		"Explorer/dash_boost_h": 9.0,
+		"Explorer/dash_boost_v": 15.0
 	}
 }
