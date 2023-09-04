@@ -25,7 +25,7 @@
 		"Explorer/flip_boost": 8.0,
 		"Explorer/jump_height": 1.2,
 		"Explorer/max_dashes": 1,
-		"Explorer/dash_boost_h": 9.0,
-		"Explorer/dash_boost_v": 15.0
+		"Explorer/dash_boost": 12.0,
+		"Explorer/dash_length": 7
 	}
 }
